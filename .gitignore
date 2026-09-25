@@ -3,3 +3,4 @@ ImagenesDescriptor/
 *.zip
 *.png
 *.jpg
+.DS_Store
